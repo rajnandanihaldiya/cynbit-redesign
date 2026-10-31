@@ -100,7 +100,7 @@ The proposed labels are a hypothesis. The next step is a tree test.
 
 ### Visual direction
 
-- **Reference:** Grafx (modern B2B consulting), adapted to Cynbit's existing brand.
+- **Reference:** modern B2B consulting websites, adapted to Cynbit's existing brand.
 - **Colours:** teal `#006067` primary, gold `#774E00` accent, and the existing CYNBIT logo.
 - **Type:** Michroma for the wide display headline, Poppins for everything else. Headings use a light/semibold pairing (“Start with the problem. We'll bring the **right technology**.”) to highlight the key idea in each section.
 - **Surfaces:** white pages with a faint grid in the hero, soft grey rounded cards, a frosted-glass card in the “Why work with us” section, and dark-teal gradient pill buttons with ↗.
@@ -186,6 +186,6 @@ Planned study: 5–8 participants (3–5 potential buyers, 1–2 students, 1–2
 
 ## 13. Reflection
 
-- **Content structure did more than styling.** The biggest improvements came from reorganising content around visitor intent and customer problems. The visual restyle (CleanShot, then the Grafx direction) made it feel modern but didn't change the structure.
+- **Content structure did more than styling.** The biggest improvements came from reorganising content around visitor intent and customer problems. The visual restyle made it feel modern but didn't change the structure.
 - **Being honest about evidence shaped the design.** Refusing to invent case-study details led to the “client-reported” labels and the “to confirm” placeholders. Both build trust better than polished claims with no source.
 - **What I'd investigate next:** a tree test of the new navigation labels, a five-second test of the hero, and session analytics on the contact form to find where people drop off.
