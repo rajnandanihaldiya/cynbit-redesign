@@ -4,6 +4,8 @@ A coded prototype of the Cynbit Technologies website redesign. It comes from a U
 
 Plain HTML, CSS and JavaScript. No build step.
 
+📄 **[Read the UX Improvement Report](UX-Improvement-Report.md)**. It covers the audit findings, design decisions, prototype and expected impact, with links to the Figma file and prototype.
+
 ## Pages
 
 | File | Page |
